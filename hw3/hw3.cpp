@@ -1,3 +1,12 @@
+/*
+ * filename:hw3.cpp
+ * Author: Zhuonan Wang
+ * Auburn UserID: zzw0034
+ * Development Environment: vi g++ Linux
+   Compile: g++ -o hw3 hw3.cpp
+   Sample usage: ./hw3
+ */
+
 #include<iostream>
 #include <iomanip> //std:setw
 using namespace std;
